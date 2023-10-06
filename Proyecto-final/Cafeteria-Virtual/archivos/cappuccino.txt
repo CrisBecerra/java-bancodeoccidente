@@ -1,0 +1,4 @@
+C001|Sencillo|3500|Vainilla|N
+C002|Doble|4000|Vainilla|Y
+C003|Express|3500|Vainilla|N
+C004|Cremoso|3700|Vainilla|N

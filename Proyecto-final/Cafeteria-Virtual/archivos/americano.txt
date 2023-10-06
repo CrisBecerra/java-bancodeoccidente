@@ -1,0 +1,4 @@
+A001|Amargo|3500|Citricos|30
+A002|Suave|3000|Chocolate|30
+A003|Cargado|3800|Dulce|30
+A004|Doble|4000|Canela|60

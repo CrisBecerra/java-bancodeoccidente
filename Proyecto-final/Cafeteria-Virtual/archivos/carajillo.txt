@@ -1,0 +1,4 @@
+CA01|Cargado|6000|Citricos
+CA02|ConHierbas|6500|Chocolate
+CA03|Sencillo|5500|Picante
+CA04|Dulce|6000|Vainilla
